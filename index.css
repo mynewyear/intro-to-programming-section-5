@@ -13,3 +13,6 @@ main {
 #reset {
   margin: 20px;
 }
+#greater-than-zero, #less-than-hundred {
+  color: #95003c;
+}
